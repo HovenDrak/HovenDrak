@@ -1,1 +1,1 @@
-[![HovenDrak GitHub stats](https://github-readme-stats.vercel.app/api?username=HovenDrak)](https://github.com/HovenDrak/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HovenDrak&layout=compact&langs_count=7&theme=buefy"/>
